@@ -1,7 +1,7 @@
 ---
 # vars file for vcenter-assign-tag
 vcenter_datacenter: "vcenter.yourcompany.com"
-vcenter_vmcluster": "CL01"
-vcenter_vm_folder": "vm"
+vcenter_vmcluster: "CL01"
+vcenter_vm_folder: "vm"
 tag_category: "VeeamBackup"
 tag_name: "Linux"
